@@ -1,4 +1,4 @@
-# Activity Recognition using ConvLSTM_LRCN
+# Activity Recognition using ConvLSTM and LRCN
 Jupyter Notebook implementation of Human Activity Recognition using ConvLSTM and Long-term Recurrent Convolutional Networks (LRCN)
 
 ## Dataset Used
