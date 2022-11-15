@@ -1,10 +1,11 @@
-# ActRecogConvLSTM_LRCN
+# Activity Recognition using ConvLSTM_LRCN
 Jupyter Notebook implementation of Human Activity Recognition using ConvLSTM and Long-term Recurrent Convolutional Networks (LRCN)
 
 ## Dataset Used
 The dataset used in the training process is the UCF50 - Action Recognition Data Set. Dataset can be downloaded from [this link](https://www.crcv.ucf.edu/data/UCF50.php)</br>
 The dataset contains:
-- 50 Action Categories
+- 50 Action Categories </br>
+`Baseball Pitch, Basketball Shooting, Bench Press, Biking, Biking, Billiards Shot,Breaststroke, Clean and Jerk, Diving, Drumming, Fencing, Golf Swing, Playing Guitar, High Jump, Horse Race, Horse Riding, Hula Hoop, Javelin Throw, Juggling Balls, Jump Rope, Jumping Jack, Kayaking, Lunges, Military Parade, Mixing Batter, Nun chucks, Playing Piano, Pizza Tossing, Pole Vault, Pommel Horse, Pull Ups, Punch, Push Ups, Rock Climbing Indoor, Rope Climbing, Rowing, Salsa Spins, Skate Boarding, Skiing, Skijet, Soccer Juggling, Swing, Playing Tabla, TaiChi, Tennis Swing, Trampoline Jumping, Playing Violin, Volleyball Spiking, Walking with a dog, Yo Yo`
 - 25 Groups of Videos per Action Category
 - 133 Average Videos per Action Category
 - 199 Average Number of Frames per Video
