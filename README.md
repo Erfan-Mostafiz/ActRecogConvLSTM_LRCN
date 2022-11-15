@@ -40,5 +40,6 @@ After training on `37 epochs` early stopping CallBack was triggered. `Test Accur
 
 The Long-term Recurrent Convolutional Network (LRCN) had a better training and testing accuracy and less loss, and the training time was comparitively faster than the ConvLSTM model network.
 
+ - The entire Jupyter Notebook experimental process of preprocessing, training, testing and inference on YouTube video file can be found in `Experiment Notebook` folder
  - The best weights are stored in `Models` folder
  - The Training Logs are stored in `Training Logs` folder
